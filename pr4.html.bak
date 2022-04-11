@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>order and unorder list</title>
+</head>
+<body>
+           
+		    <ol>
+			<li>coffe</li>
+			<li>milk</li>
+			<li>tea</li>
+			</ol>
+			
+			<ul type="semi circle">
+			<li>coffe</li>
+			<li>milk</li>
+			<li>tea</li>
+			</ul>
+
+
+
+</body>
+</html>
